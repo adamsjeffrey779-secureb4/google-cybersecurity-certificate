@@ -15,7 +15,7 @@ The Google Cybersecurity Certificate is a professional program consisting of 9 c
 
 | # | Course | Status | Certificate |
 |---|--------|--------|-------------|
-| 1 | Foundations of Cybersecurity | ✅ Completed | [View Certificate](./certificates/course-1-certificate.pdf) |
+| 1 | Foundations of Cybersecurity | ✅ Completed | [View Certificate](./certificates/Google-Cert-Foundation-of-Cybersecurity.pdf) |
 | 2 | Play It Safe: Manage Security Risks | 🔄 In Progress | — |
 | 3 | Connect and Protect: Networks and Network Security | ⏳ Upcoming | — |
 | 4 | Tools of the Trade: Linux and SQL | ⏳ Upcoming | — |
@@ -30,7 +30,7 @@ The Google Cybersecurity Certificate is a professional program consisting of 9 c
 ## 📚 Course 1 — Foundations of Cybersecurity
 
 **Status:** ✅ Completed  
-**Certificate:** [View Here](./certificates/course-1-certificate.pdf)
+**Certificate:** [View Here](./certificates/Google-Cert-Foundation-of-Cybersecurity.pdf)
 
 ### What I Learned
 - Core concepts of cybersecurity and its importance
