@@ -45,13 +45,39 @@ This course built my foundation for understanding how organizations protect thei
 
 ---
 
-## 🛠️ Tools & Concepts Covered So Far
+## 📚 Course 2 — Play It Safe: Manage Security Risks
 
-- SIEM (Security Information and Event Management)
-- NIST Cybersecurity Framework
-- Security Playbooks
-- Risk Management
+**Status:** ✅ Completed  
+**Certificate:** [View Here](./certificates/Google-Cert-Play-it-safe.pdf)
+
+### What I Learned
+- How security **playbooks** guide analysts through structured incident response procedures
+- How **SOAR tools** automate repetitive security tasks and streamline threat response
+- Using **Splunk** and **Chronicle** as SIEM platforms to search, analyze, and monitor log data
+- Understanding and analyzing **logs** to identify suspicious activity and security events
+- Applying the **NIST Cybersecurity Framework** to manage and reduce organizational risk
+- **Identity and Access Management (IAM)** — controlling who has access to what within an organization
+- Introduction to **Common Threat Frameworks (CTF)** used to categorize and respond to threats
+
+### Key Takeaways
+This course deepened my understanding of how organizations manage security risks systematically. It showed me how a SOC analyst uses frameworks, playbooks, and SIEM tools together to detect, respond to, and recover from security incidents — reinforcing my focus on Blue Team operations.
 
 ---
 
-*Last updated: June 2026 | Jeffrey Adams | UMaT, Ghana*
+## 🛠️ Tools & Concepts Covered So Far
+
+- SIEM — Splunk & Chronicle
+- Security Playbooks
+- SOAR Tools
+- Log Analysis
+- NIST Cybersecurity Framework
+- CISSP Security Domains
+- Identity and Access Management (IAM)
+- Common Threat Frameworks (CTF)
+- Risk Management
+- Security Audits
+- IDS (Intrusion Detection Systems)
+
+---
+
+*Last updated: August 2026 | Jeffrey Adams | UMaT, Ghana*
